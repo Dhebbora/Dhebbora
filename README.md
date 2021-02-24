@@ -25,20 +25,20 @@
  
 <center>
   <table>
+      <h3 align="left">Github Status </h3>
     <tr>
        <td>
-        <h3 align="left">Github Status </h3>
         <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=truea&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
        </td>
 
    <td>
-     <h3 align="left">Streak</h3>
     <td><img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
     </td>
 </table>
 </center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhebbora&" alt="Dhebbora" /></p>
+<h3 align="left">Streak</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora" /></p>
 
 
 <h3 align="left">Contatos:</h3>
