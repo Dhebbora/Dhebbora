@@ -23,14 +23,22 @@
   <a href="https://www.adobe.com/br/products/illustrator.html?sdid=KQPNY&mv=search&ef_id=Cj0KCQiAj9iBBhCJARIsAE9qRtBG6pDYFYzUR3ediZEMpWKOJGW6bOMWlFsGJv9LapwRaD_wv3q8_5gaAuV3EALw_wcB:G:s&s_kwcid=AL!3085!3!470955336927!e!!g!!adobe%20illustrator!188190582!110348310163&gclid=Cj0KCQiAj9iBBhCJARIsAE9qRtBG6pDYFYzUR3ediZEMpWKOJGW6bOMWlFsGJv9LapwRaD_wv3q8_5gaAuV3EALw_wcB" target="_blank"><img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="Illustrator" width="40" height="40"/> </a>
   </a>
  
+<center>
+  <table>
+    <tr>
+       <td>
+        <h3 align="left">Github Status </h3>
+        <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=truea&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
+       </td>
 
-<h3 align="left">Github Status </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=true&locale=en" alt="Dhebbora" /></p>
+   <td>
+     <h3 align="left">Streak</h3>
+    <td><img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
+    </td>
+</table>
+</center>
 
-<h3 align="left">Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhebbora&" alt="Dhebbora" /></p>
-
-
 
 
 <h3 align="left">Contatos:</h3>
