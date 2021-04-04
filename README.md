@@ -23,9 +23,9 @@
   <a href="https://www.adobe.com/br/products/illustrator.html?sdid=KQPNY&mv=search&ef_id=Cj0KCQiAj9iBBhCJARIsAE9qRtBG6pDYFYzUR3ediZEMpWKOJGW6bOMWlFsGJv9LapwRaD_wv3q8_5gaAuV3EALw_wcB:G:s&s_kwcid=AL!3085!3!470955336927!e!!g!!adobe%20illustrator!188190582!110348310163&gclid=Cj0KCQiAj9iBBhCJARIsAE9qRtBG6pDYFYzUR3ediZEMpWKOJGW6bOMWlFsGJv9LapwRaD_wv3q8_5gaAuV3EALw_wcB" target="_blank"><img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="Illustrator" width="40" height="40"/> </a>
   </a>
  
- <h3 align="left">frameworks:</h3>
+ <h3 align="left">Frameworks:</h3>
 <p align="left">
-    <a href="https://icons8.com.br/icon/84710/bootstrap" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a>
+    <a href="https://icons8.com.br/icon/84710/bootstrap" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="60" height="60"/> </a>
  
 <center>
   <table>
