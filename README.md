@@ -25,7 +25,7 @@
  
  <h3 align="left">Frameworks:</h3>
 <p align="left">
-    <a href="https://icons8.com.br/icon/84710/bootstrap" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="60" height="60"/> </a>
+    <a href="https://icons8.com.br/icon/84710/bootstrap" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>
  
 <center>
   <table>
