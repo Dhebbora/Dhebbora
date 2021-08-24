@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhebbora&label=Profile%20views&color=0e75b6&style=flat" alt="Dhebbora" /> </p>
 
-- 🔭 Estou em busca de  **RELOCAÇÃO**
+- 🙌 Sou Estagiária da **FAST - Soluções Tecnológicas**
 
-- 👍 No momento estou aprendendo **JavaScript**
+- 😍 No momento estou aprendendo **Angular/JAVA**
 
-- 💬 Consigo desenvolver com **HTML, CSS** e um pouco de **JS.**
+- 💬 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS, REACT**
 
 - 📫 Entre em contato comigo **dhebboraleane@gmail.com**
 
