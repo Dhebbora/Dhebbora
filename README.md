@@ -5,9 +5,11 @@
 
 - 🙌 Sou Estagiária da **FAST - Soluções Tecnológicas**
 
-- 😍 No momento estou aprendendo **Angular/JAVA**
+- 😍 No momento estou aprendendo **ANGULAR/JAVA/PYTHON**
 
-- 💬 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS, REACT**
+- 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas**
+
+- 💻 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS, REACT**
 
 - 📫 Entre em contato comigo **dhebboraleane@gmail.com**
 
