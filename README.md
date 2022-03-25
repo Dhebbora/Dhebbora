@@ -9,7 +9,7 @@
 
 - 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas**
 
-- 💻 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS, REACT**
+- 💻 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS**
 
 - 📫 Entre em contato comigo **dhebboraleane@gmail.com**
 
