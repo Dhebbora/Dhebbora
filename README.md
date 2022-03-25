@@ -5,7 +5,7 @@
 
 - 🙌 Sou Estagiária da **FAST - Soluções Tecnológicas**
 
-- 😍 No momento estou aprendendo **ANGULAR/JAVA/PYTHON**
+- 😍 No momento estou aprendendo **ANGULAR/JAVA/PYTHON/C**
 
 - 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas**
 
