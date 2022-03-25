@@ -18,7 +18,6 @@
     <a href="https://www.instagram.com/p/CI_tR7dAylr/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.instagram.com/p/CKjykUhgFYE/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.instagram.com/p/CN5LgEQg9mY/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-          <a href="https://angular.io/" target="_blank"> <img  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/> </a>
       <a href="https://code.visualstudio.com/" target="_blank"> <img  src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudiocode" width="40" height="40"/> </a>
     
 
@@ -32,6 +31,7 @@
  <h3 align="left">Frameworks:</h3>
 <p align="left">
     <a href="https://icons8.com.br/icon/84710/bootstrap" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>
+<a href="https://angular.io/" target="_blank"> <img  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/> </a>
  
  <h3 align="left">Extensões:</h3>
 <p align="left">
