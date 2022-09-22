@@ -1,4 +1,4 @@
-<h1 align="left">Olá Mundo!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" heigth="10px"/> Eu sou a Dhebbora</h1>
+<h1 align="left">Olá Mundo!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" heigth="20px"/> Eu sou a Dhebbora</h1>
 <h3 align="left">Sou Designer e estou em transição de carreira.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhebbora&label=Profile%20views&color=0e75b6&style=flat" alt="Dhebbora" /> </p>
