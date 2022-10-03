@@ -34,17 +34,12 @@
 <p align="left">
      <a href="https://sass-lang.com/" target="_blank"> <img  src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> </a>
 <center>
-  <table>
+    
+  <div>
       <h3 align="left">Github Status </h3>
-    <tr>
-       <td>
-        <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=truea&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
-       </td>
-
-   <td>
-    <td><img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
-    </td>
-</table>
+       <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=truea&layout=compact&theme=tokyonight" alt="Dhebbora"/>
+<img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
+    </div>
 </center>
 
 <h3 align="left">Streak</h3>
