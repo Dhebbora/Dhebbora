@@ -52,8 +52,6 @@
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://codepen.io/dhebbora" target="blank"> <img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" alt="Dhebbora" height="30" width="30"/></a>
-    
-<a href="https://www.instagram.com/soumaisfront/" target="blank"><img src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-HD.png" alt="Dhebbora" height="30" width="30" /></a>
-    
-<a href="https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/" target="blank"><img src="https://cartao.natalmagia.com.br/img/icone-linkedin.png" alt="saurav-chamoli" height="30" width="30" /></a>
+    <a href="https://www.instagram.com/soumaisfront/" target="blank"><img src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-HD.png" alt="Dhebbora" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/" target="blank"><img src="https://cartao.natalmagia.com.br/img/icone-linkedin.png" alt="saurav-chamoli" height="30" width="30" /></a>
 </p>
