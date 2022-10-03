@@ -36,19 +36,24 @@
 
     
    <h3 align="left">Github Status </h3>
-  <div>
-      <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=truea&layout=compact&theme=tokyonight" alt="Dhebbora"/>
-<img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora"/></td>
    </div>
+
+ <a href="https://github.com/Dhebbora">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dhebbora&show_icons=truea&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhebbora&layout=compact&theme=tokyonight"/>
+</div>
+
 
 </br>
 <h3 align="left">Streak</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora" /></p>
+<p><img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhebbora&layout=compact&theme=tokyonight" alt="Dhebbora" /></p>
 
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://codepen.io/dhebbora" target="blank"> <img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" alt="Dhebbora" height="30" width="30"/></a>
+    
 <a href="https://www.instagram.com/soumaisfront/" target="blank"><img src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-HD.png" alt="Dhebbora" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/" target="blank"><img src="https://www.ifpa-formation.com/fichiers/cms/linkedin-logo.png" alt="saurav-chamoli" height="30" width="30" /></a>
+    
+<a href="https://www.linkedin.com/in/dhebbora-vasconcelos-459077bb/" target="blank"><img src="https://cartao.natalmagia.com.br/img/icone-linkedin.png" alt="saurav-chamoli" height="30" width="30" /></a>
 </p>
