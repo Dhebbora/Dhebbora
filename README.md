@@ -7,7 +7,7 @@
 
 - 😍 No momento estou aprendendo **ANGULAR/JAVA/PYTHON/C**
 
-- 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas**
+- 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas** - 4/5
 
 - 💻 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS**
 
