@@ -32,7 +32,7 @@
  
  <h3 align="left">Extensões:</h3>
 <p align="left">
-     <a href="https://sass-lang.com/" target="_blank"> <img  src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/> </a>
+     <a href="https://sass-lang.com/" target="_blank"> <img  src="https://sass-lang.com/assets/img/styleguide/color.png" alt="sass" width="40" height="40"/> </a>
 
     
    <h3 align="left">Github Status </h3>
