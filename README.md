@@ -28,7 +28,7 @@
  <h3 align="left">Frameworks:</h3>
 <p align="left">
     <a href="https://icons8.com.br/icon/84710/bootstrap" target="_blank"> <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>
-<a href="https://angular.io/" target="_blank"> <img  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank"> <img  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="60" height="40"/> </a>
  
  <h3 align="left">Extensões:</h3>
 <p align="left">
