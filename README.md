@@ -7,9 +7,9 @@
 
 - 😍 No momento estou aprendendo **ANGULAR/JAVA/PYTHON/C**
 
-- 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas** - 4/5
+- 📚 Faço faculdade de **ADS - Análise e desenvolvimento de sistemas** - 5/5
 
-- 💻 Consigo desenvolver com **HTML, CSS, JS, BOOTSTRAP, SASS**
+- 💻 Consigo desenvolver com **HTML, CSS, JS, Angular, Bootstrap, Sass**
 
 - 📫 Entre em contato comigo **dhebboraleane@gmail.com**
 
