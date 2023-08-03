@@ -32,7 +32,7 @@
  
  <h3 align="left">Extensões:</h3>
 <p align="left">
-     <a href="https://sass-lang.com/" target="_blank"> <img  src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> </a>
+     <a href="https://sass-lang.com/" target="_blank"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png)" alt="sass" width="40" height="40"/> </a>
 
     
    <h3 align="left">Github Status </h3>
