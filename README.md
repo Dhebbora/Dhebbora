@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhebbora&label=Profile%20views&color=0e75b6&style=flat" alt="Dhebbora" /> </p>
 
-- 🙌 Sou Estagiária da **FAST - Soluções Tecnológicas**
+- 🙌 Sou Desenvolvedora Front da **FAST - Soluções Tecnológicas**
 
 - 😍 No momento estou aprendendo **ANGULAR/JAVA/PYTHON/C**
 
